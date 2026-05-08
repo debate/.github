@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/2lkYi3t.png"  > 
+    <img src="https://i.imgur.com/2lkYi3t.png"  width="400px" > 
 </p>
 
 ⚔️[Debate AI](https://debate-ai.com/) 🙋‍ [Reddit Forum](https://www.reddit.com/r/Debate+policydebate) 📚  [Shared Research](https://opencaselist.com/) 
