@@ -4,8 +4,8 @@
 
 ⚔️[Debate AI](https://debate-ai.com/) 🙋‍ [Reddit Forum](https://www.reddit.com/r/Debate+policydebate) 📚  [Shared Research](https://opencaselist.com/) 
   📶 [Results](https://www.debate.land/)
-  📜  [Debate Singularity AI Government Plan](https://github.com/debate/debate-ai.com/blob/master/docs/debate-singularity-research-paper.md)
+  📜  [Debate AI Government](https://github.com/debate/debate-ai.com/blob/master/docs/debate-singularity-research-paper.md)
 
 
-Critical times call for critical thinkers to create  a crowdsourced argument reasoning dataset, for AI models to recommend research quotes,  evolve crowdsourced chain-of-thought reasoning,  unlock faster ways to read long articles, monitor developments by topic modeling a knowledge base graph, and provide a public service of answers to research. Debate should be a war of warrants where victories are vectorized as weights — for the AI collective mind to gain public safety testing and weigh perspectives.
+Debate should be a war of warrants where victories are vectorized as weights, so that a crowd-sourced decision-making AI can be publicly stress-tested against competing perspectives. Critical times call for a crowdsourced argument-reasoning dataset that lets AI models recommend research quotes, evolves chain-of-thought reasoning, unlocks faster reading of long articles, monitors developments through topic-modeled knowledge graphs, and provides a public answer service.
 
