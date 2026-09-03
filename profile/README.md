@@ -1,7 +1,5 @@
 
 <p align="center">
-    <img src="https://i.imgur.com/c3mT4oo.png"  width="1000px" > 
-    <br/>
     <a href="https://deepwiki.com/debate/debate-ai.com"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://github.com/debate/debate-ai.com/tree/master/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://debate-ai.com/api/api-docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
@@ -23,19 +21,13 @@
     <a href="https://doi.org/10.5281/zenodo.22170412"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22170412.svg" alt="DOI"></a>
     <a href="https://doi.org/10.5281/zenodo.21881743"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21881743.svg" alt="DOI"></a>
    <br />
-   
-  <a href="https://debate-ai.com/">
-    <img src="https://img.shields.io/badge/⚔️_App-debate--ai.com-blueviolet?style=for-the-badge" ">
-  </a>
-  <a href="https://www.reddit.com/r/Debate+PublicForumDebate+lincolndouglas+policydebate/">
-    <img src="https://img.shields.io/badge/🙋_Reddit-Forum-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Forum">
-  </a>
-  <a href="https://opencaselist.com/">
-    <img src="https://img.shields.io/badge/📚_Shared-Research-2ea44f?style=for-the-badge" alt="Shared Research">
-  </a>
-  <a href="https://www.debate.land/">
-    <img src="https://img.shields.io/badge/📶_Results-debate.land-informational?style=for-the-badge" alt="Results">
-  </a>
+  <a href="https://debate-ai.com/"><img src="https://img.shields.io/badge/⚔️_App-debate--ai.com-blueviolet?style=for-the-badge" "></a>
+  <a href="https://www.reddit.com/r/Debate+PublicForumDebate+lincolndouglas+policydebate/"><img src="https://img.shields.io/badge/🙋_Reddit-Forum-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Forum"></a>
+  <a href="https://opencaselist.com/"><img src="https://img.shields.io/badge/📚_Shared-Research-2ea44f?style=for-the-badge" alt="Shared Research"></a>
+  <a href="https://www.debate.land/"><img src="https://img.shields.io/badge/📶_Results-debate.land-informational?style=for-the-badge" alt="Results"></a>
+    <br/>
+  <img src="https://i.imgur.com/c3mT4oo.png"  width="800px" > 
+    <br/>
 </p>
 
 
