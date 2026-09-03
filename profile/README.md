@@ -3,10 +3,7 @@
     <img src="https://i.imgur.com/c3mT4oo.png"  width="1000px" > 
 </p>
 <p align="center">
-    <a href="https://doi.org/10.5281/zenodo.20574318"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20574318.svg" alt="DOI"></a>
-    <a href="https://doi.org/10.5281/zenodo.22170412"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22170412.svg" alt="DOI"></a>
-    <a href="https://doi.org/10.5281/zenodo.21881743"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21881743.svg" alt="DOI"></a>
-    <br />
+  
     <a href="https://deepwiki.com/debate/debate-ai.com"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://github.com/debate/debate-ai.com/tree/master/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://debate-ai.com/api/api-docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
@@ -23,7 +20,11 @@
     <a href="https://discord.gg/KfxNhWEMj"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" />
- </p>
+   <br />
+    <a href="https://doi.org/10.5281/zenodo.20574318"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20574318.svg" alt="DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.22170412"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22170412.svg" alt="DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.21881743"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21881743.svg" alt="DOI"></a>
+    </p>
 <p align="center">
   <a href="https://debate-ai.com/">
     <img src="https://img.shields.io/badge/⚔️_App-debate--ai.com-blueviolet?style=for-the-badge" ">
