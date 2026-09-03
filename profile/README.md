@@ -1,13 +1,6 @@
+
 <p align="center">
-    <b>Being is Becoming —</b><br>
-    <b><i>Dream Emerges Destiny.</i></b><br>
-    <b>Whatever Research Can Be —</b><br>
-    <b>That is What It Must Become.</b><br>
-    <b>If AI is Humanity's Last Invention —</b><br>
-    <b>Collective Consciousness is the Final Frontier.</b>
-</p>
-<p align="center">
-    <img src="https://i.imgur.com/2lkYi3t.png"  width="400px" > 
+    <img src="[https://i.imgur.com/2lkYi3t.png](https://i.imgur.com/kTfbc1V.jpeg)"  width="1000px" > 
 </p>
 <p align="center">
     <a href="https://doi.org/10.5281/zenodo.20574318"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20574318.svg" alt="DOI"></a>
