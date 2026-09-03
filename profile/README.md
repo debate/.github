@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="[https://i.imgur.com/2lkYi3t.png](https://i.imgur.com/kTfbc1V.jpeg)"  width="1000px" > 
+    <img src="https://i.imgur.com/c3mT4oo.png"  width="1000px" > 
 </p>
 <p align="center">
     <a href="https://doi.org/10.5281/zenodo.20574318"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20574318.svg" alt="DOI"></a>
