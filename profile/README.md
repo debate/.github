@@ -1,9 +1,7 @@
 
 <p align="center">
     <img src="https://i.imgur.com/c3mT4oo.png"  width="1000px" > 
-</p>
-<p align="center">
-  
+    <br/>
     <a href="https://deepwiki.com/debate/debate-ai.com"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://github.com/debate/debate-ai.com/tree/master/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://debate-ai.com/api/api-docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
@@ -24,8 +22,8 @@
     <a href="https://doi.org/10.5281/zenodo.20574318"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20574318.svg" alt="DOI"></a>
     <a href="https://doi.org/10.5281/zenodo.22170412"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22170412.svg" alt="DOI"></a>
     <a href="https://doi.org/10.5281/zenodo.21881743"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21881743.svg" alt="DOI"></a>
-    </p>
-<p align="center">
+   <br />
+   
   <a href="https://debate-ai.com/">
     <img src="https://img.shields.io/badge/⚔️_App-debate--ai.com-blueviolet?style=for-the-badge" ">
   </a>
