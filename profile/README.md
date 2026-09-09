@@ -6,8 +6,8 @@
     <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/debate/debate-ai.com" target="_blank" rel="noopener noreferrer"><img height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a>
     <a href="https://github.com/debate/debate-ai.com/discussions"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/debate/debate-ai.com" /></a>
 <br />
-            <a href="https://app.codecov.io/gh/debate/debate-ai.com"><img src="https://codecov.io/gh/debate/debate-ai.com/branch/master/graph/badge.svg" alt="Coverage" /></a>
     <a href="https://github.com/debate/debate-ai.com/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/debate/debate-ai.com" /></a>
+            <a href="https://app.codecov.io/gh/debate/debate-ai.com"><img src="https://codecov.io/gh/debate/debate-ai.com/branch/master/graph/badge.svg" alt="Coverage" /></a>
     <a href="https://github.com/debate/debate-ai.com/commits/master/"><img src="https://img.shields.io/github/last-commit/debate/debate-ai.com.svg" alt="GitHub last commit" /></a>
     <a href="https://github.com/debate/debate-ai.com/actions/workflows/test.yml"><img src="https://github.com/debate/debate-ai.com/actions/workflows/test.yml/badge.svg" alt="Test debate-ai.com status for master" /></a>
     <br />
